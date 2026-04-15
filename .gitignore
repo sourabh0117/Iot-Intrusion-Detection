@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+.qodo/
+
+# Dataset (if large)
+data/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

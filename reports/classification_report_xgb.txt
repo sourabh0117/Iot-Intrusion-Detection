@@ -1,0 +1,13 @@
+                      precision    recall  f1-score   support
+
+Backdoors & Exploits     0.6897    0.1786    0.2837       112
+              Benign     0.8911    0.9544    0.9217      4895
+Botnet/Mirai Attacks     1.0000    0.9999    1.0000     11746
+       Flood Attacks     1.0000    1.0000    1.0000    175991
+   Injection Attacks     0.6667    0.0333    0.0635        60
+      Reconnaissance     0.8208    0.7665    0.7927      1589
+     Spoofing / MITM     0.8682    0.8281    0.8477      2211
+
+            accuracy                         0.9942    196604
+           macro avg     0.8480    0.6801    0.7013    196604
+        weighted avg     0.9940    0.9942    0.9939    196604

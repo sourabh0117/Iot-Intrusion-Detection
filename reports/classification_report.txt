@@ -1,0 +1,21 @@
+                         precision    recall  f1-score   support
+
+          BenignTraffic       0.72      0.86      0.78      4895
+        DDoS-ICMP_Flood       1.00      1.00      1.00     27458
+      DDoS-PSHACK_Flood       1.00      1.00      1.00     16783
+       DDoS-RSTFINFlood       1.00      1.00      1.00     15688
+         DDoS-SYN_Flood       0.86      0.96      0.91     17238
+DDoS-SynonymousIP_Flood       0.93      0.91      0.92     15799
+         DDoS-TCP_Flood       0.87      0.98      0.92     18406
+         DDoS-UDP_Flood       0.87      0.94      0.90     24241
+          DoS-SYN_Flood       0.88      0.71      0.79      8878
+          DoS-TCP_Flood       0.95      0.77      0.85     11498
+          DoS-UDP_Flood       0.88      0.77      0.82     14828
+     Mirai-greeth_flood       0.91      0.90      0.90      4363
+      Mirai-greip_flood       0.87      0.88      0.87      3349
+         Mirai-udpplain       0.99      0.99      0.99      4033
+           Other_Attack       0.88      0.82      0.85      9147
+
+               accuracy                           0.92    196604
+              macro avg       0.91      0.90      0.90    196604
+           weighted avg       0.92      0.92      0.92    196604
